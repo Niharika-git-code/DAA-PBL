@@ -1,0 +1,1 @@
+# No third-party packages required. Kruskal module uses only the Python 3 standard library.

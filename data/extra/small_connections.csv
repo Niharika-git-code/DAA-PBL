@@ -1,0 +1,6 @@
+source,destination,distance_m,cost_per_m
+Main Gate,Library,50,100
+Main Gate,CSE Block,80,100
+Library,CSE Block,30,100
+Library,Hostel,70,100
+CSE Block,Hostel,40,100

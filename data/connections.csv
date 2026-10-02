@@ -1,0 +1,19 @@
+source,destination,distance_m,cost_per_m
+Main Gate,Administrative Block,60,150
+Main Gate,Sports Complex,140,200
+Main Gate,Library,95,200
+Administrative Block,Library,45,150
+Administrative Block,Auditorium,70,150
+Library,CSE Block,40,150
+Library,Auditorium,55,150
+Library,Cafeteria,80,150
+CSE Block,ECE Block,35,150
+CSE Block,Cafeteria,65,150
+CSE Block,Mechanical Block,90,150
+ECE Block,Mechanical Block,50,150
+ECE Block,Cafeteria,75,150
+Mechanical Block,Hostel,120,200
+Mechanical Block,Sports Complex,110,150
+Cafeteria,Hostel,90,150
+Auditorium,Cafeteria,100,150
+Hostel,Sports Complex,85,150
