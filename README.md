@@ -1,4 +1,4 @@
-# Prim's Algorithm Module (Member 2 – Niharika Jha)
+# Prim's Algorithm Module 
 
 Minimum-Cost Network for Connecting Multiple Campus Buildings – **Prim's MST** implementation in Python.
 This module runs independently; it does not need the Kruskal module.
